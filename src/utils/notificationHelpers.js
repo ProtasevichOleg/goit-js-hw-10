@@ -1,5 +1,3 @@
-// ./utils/notificationHelpers.js
-
 import Notiflix from 'notiflix';
 
 export function notifyOverflowMatches() {

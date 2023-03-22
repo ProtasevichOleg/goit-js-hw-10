@@ -1,5 +1,3 @@
-// index.js
-
 import './css/styles.css';
 import { fetchCountries } from './api/fetchCountries';
 import debounce from 'lodash.debounce';

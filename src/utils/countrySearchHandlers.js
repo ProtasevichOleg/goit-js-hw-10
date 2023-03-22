@@ -1,5 +1,3 @@
-// ./utils/countrySearchHandlers.js
-
 import { notifyOverflowMatches } from './notificationHelpers';
 import { renderCountryList, renderCountryInfo } from './renderHelpers';
 

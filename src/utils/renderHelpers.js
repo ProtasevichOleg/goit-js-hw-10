@@ -1,5 +1,3 @@
-// ./utils/renderHelpers.js
-
 import {
   countryListItemTemplate,
   countryInfoTemplate,

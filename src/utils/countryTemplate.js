@@ -1,5 +1,3 @@
-// ./utils/countryTemplate.js
-
 export function countryListItemTemplate(country) {
   return `
     <li class="country-item">
